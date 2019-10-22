@@ -3,4 +3,6 @@
 
 - Our goal is to learn python and make projects.
 
-All the documents here are Open Source.
+All the documents here are 💯 Open Source.
+
+and Enjoy the coding 👍 ...
